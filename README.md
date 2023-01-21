@@ -10,8 +10,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vidhi jaiswal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vidhi jaiswal" height="30" width="40" /></a>
-<a href="https://www.behance.net/vidhi jaiswal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="vidhi jaiswal" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vidhi-jaiswal-38a053224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vidhi jaiswal" height="30" width="40" /></a>
+<a href="https://www.behance.net/d26364dd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="vidhi jaiswal" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/vidhijaiswal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vidhijaiswal" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/211485_vidhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="211485_vidhi" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vj_vidhi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vj_vidhi_" height="30" width="40" /></a>
