@@ -1,6 +1,6 @@
 [![MasterHead](http://static1.squarespace.com/static/5a3ab2ad90bade9f35107e99/5a3bff7c5404e2c4fa605608/5a3bff7d5404e2c4fa605636/1595448392497/hello-world.gif?format=1500w)](https://042Vidhi.io)
 <h1 align="left">Hi , I'm Vidhi Jaiswal</h1>
-<h3 align="left">I'm a passionate developer.I Like building products that creat a real world impact.</h3>
+<h3 align="left">I'm a passionate developer.I like building products that creat a real world impact.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/DOzCUnatStsAAAAd/working-morning-work.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=042vidhi&label=Profile%20views&color=0e75b6&style=flat" alt="042vidhi" /> </p>
 
