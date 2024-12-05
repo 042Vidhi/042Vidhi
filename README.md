@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AI-based Image Management System<br>🤝 I’m looking for help with Backend Development<br>🌱 I’m currently learning DSA, FullStack Development<br>.
+🔭 I’m currently working on AI-based Image Management System<br>🤝 I’m looking for help with Backend Development<br>🌱 I’m currently learning DSA, FullStack Development.<br>
 
 
 ## 🌐 Socials:
