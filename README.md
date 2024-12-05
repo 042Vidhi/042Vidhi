@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Ecommerce-Website<br>🤝 I’m looking for help with Machine Learning<br>🌱 I’m currently learning DSA, ReactJs , NextJS , Django<br>💬 Ask me about ReactJs , DSA<br>⚡ Fun fact I'm a hackathon freak.
+🔭 I’m currently working on AI-based Image Management System<br>🤝 I’m looking for help with Backend Development<br>🌱 I’m currently learning DSA, FullStack Development<br>.
 
 
 ## 🌐 Socials:
